@@ -1,6 +1,6 @@
 ## Sobre o desafio
 
-Nesse desafio, foi feito uma aplicação onde o primeiro objetivo é desenvolver toda a interface usando como base o Chakra UI. O segundo objetifo foi trabalhar o responsivo da aplicação.
+Nesse desafio, foi feito uma aplicação onde o objetivo é desenvolver toda a interface usando como base o Chakra UI.
 
 ### **Clone do projeto**
 
