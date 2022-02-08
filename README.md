@@ -19,11 +19,8 @@ cd desafio-interface-com-chakra-ui
 # Instale as dependências
 yarn
 
-# Inicie a Fake API
-yarn server
-
 # Rode a aplicação
 yarn dev
 
-# Acesse http://localhost:8080 no seu navagador
+# Acesse http://localhost:3000 no seu navagador
 ```
